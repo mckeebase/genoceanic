@@ -1,23 +1,21 @@
 # Genoceanic
 Leveraging the power of Open Data Standards in the world of Genomics.
-*Author: Dr Shane McKee* shane.mckee@belfasttrust.hscni.net
+*Author: Dr Shane McKee*, Consultant in Genetic Medicine, Chief Clinical Information Officer, Belfast HSC Trust. shane.mckee@belfasttrust.hscni.net tw: @shanemuk
 
 ## What is Genoceanic?
-Northern Ireland patients are participating in the UK [**100,000 Genomes Project**](https://www.genomicsengland.co.uk/). This involves collating **consent**, **phenotype** and **genomic** data and transmitting this securely to [*Genomics England Ltd*](https://www.genomicsengland.co.uk/).
-
-We aim to recruit up to 1000 patients and relatives with a variety of rare diseases and cancers to the Northern Ireland contribution to the 100KGP. 
+Northern Ireland patients are participating in the UK [**100,000 Genomes Project**](https://www.genomicsengland.co.uk/). This involves collating **consent**, **phenotype** and **genomic** data and transmitting this securely to [*Genomics England Ltd*](https://www.genomicsengland.co.uk/) (GEL). We aim to recruit up to 1000 patients and relatives with a variety of rare diseases and cancers to the Northern Ireland contribution to the 100KGP. This work requires an information architecture to support it. **Genoceanic** is the platform that will do this and leave a lasting legacy for diagnosis, treatment and discovery.
 
 Genoceanic consists of two primary components:
 
-1. A front end for data entry and review, called **GENIE**
+1. A front end for data entry and review, called **GeNIE**
 1. A clinical data repository based on **OpenEHR**
 
-## What is GENIE?
-- GENIE is a software platform created by [University Hospitals Birmingham to support the West Midlands Genomic Medicine Centre](https://www.uhb.nhs.uk/west-midlands-genomic-medicine-centre.htm)'s activity within the 100,000 Genomes Project. 
-- set up data formats to match GEL dataset
-- synchronise data
-- allow recruitment and data management
-- align with ordering system for the new Genetic test directory
+## What is GeNIE?
+- GeNIE is a software platform created by [University Hospitals Birmingham to support the West Midlands Genomic Medicine Centre](https://www.uhb.nhs.uk/west-midlands-genomic-medicine-centre.htm)'s activity within the 100,000 Genomes Project. 
+- It allows us to set up data formats to match GEL dataset
+- We will use it to synchronise data with GEL
+- It will facilitate recruitment and data management
+- Development of GeNIE will allow us to align with ordering system for the new Genetic test directory.
 
 ## What is OpenEHR?
 - [OpenEHR](http://www.openehr.org) is the de facto international standard information modelling system for healthcare data.
