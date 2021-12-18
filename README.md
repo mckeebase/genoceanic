@@ -1,21 +1,15 @@
-# Genoceanic
+# GenOCEANIC
 Leveraging the power of Open Data Standards in the world of Genomics.
 *Author: Dr Shane McKee*, Consultant in Genetic Medicine, Chief Clinical Information Officer, Belfast HSC Trust. shane.mckee@belfasttrust.hscni.net tw: @shanemuk
 
 ## What is Genoceanic?
-Northern Ireland patients are participating in the UK [**100,000 Genomes Project**](https://www.genomicsengland.co.uk/). This involves collating **consent**, **phenotype** and **genomic** data and transmitting this securely to [*Genomics England Ltd*](https://www.genomicsengland.co.uk/) (GEL). We aim to recruit up to 1000 patients and relatives with a variety of rare diseases and cancers to the Northern Ireland contribution to the 100KGP. This work requires an information architecture to support it. **Genoceanic** is the platform that will do this and leave a lasting legacy for diagnosis, treatment and discovery.
+Northern Ireland patients are participating in the UK [**100,000 Genomes Project**](https://www.genomicsengland.co.uk/). This involves collating **consent**, **phenotype** and **genomic** data and transmitting this securely to [*Genomics England Ltd*](https://www.genomicsengland.co.uk/) (GEL). We aim to recruit up to 1000 patients and relatives with a variety of rare diseases and cancers to the Northern Ireland contribution to the 100KGP. This work requires an information architecture to support it. **GenOCEANIC** is the platform that will do this and leave a lasting legacy for diagnosis, treatment and discovery.
 
-Genoceanic consists of two primary components:
+GenOCEANIC consists of three primary components:
 
-1. A front end for data entry and review, called **GeNIE**
-1. A clinical data repository based on **OpenEHR**
-
-## What is GeNIE?
-- GeNIE is a software platform created by [University Hospitals Birmingham to support the West Midlands Genomic Medicine Centre](https://www.uhb.nhs.uk/west-midlands-genomic-medicine-centre.htm)'s activity within the 100,000 Genomes Project. 
-- It allows us to set up data formats to match GEL dataset
-- We will use it to synchronise data with GEL
-- It will facilitate recruitment and data management
-- Development of GeNIE will allow us to align with ordering system for the new Genetic test directory.
+1. A front end (GUI) for data entry and review, using **Panacea** from our partners FuturePerfect
+2. A clinical data repository (CDR) based on **OpenEHR** provided by Better Healthcare
+3. A Clinical Decision Support (CDS) system from our chief contractor Cambio Healthcare
 
 ## What is OpenEHR?
 - [OpenEHR](http://www.openehr.org) is the de facto international standard information modelling system for healthcare data.
@@ -33,11 +27,11 @@ This is going to get a little technical. We actually do have a great deal of dat
 
 As the new National Genomic Medicine Service comes on-line in England, we will use GeNIE as the basis for test ordering for send-away genetic tests to English laboratories. This structure will ensure that the data will follow the samples, allowing better test targeting, considerable improvements in access to genetic testing, and a much smoother and more streamlined process. Performance data for commissioners will also be much easier and faster to collect, allowing decisions to be made in a more timely manner, and commissioned tests to be more comprehensively overseen. 
 
-## Why the name "Genoceanic"?
+## Why the name "GenOCEANIC"?
 In the late 19th and early 20th centuries, Belfast was the ship-building capital of the world, with its Harland & Wolff shipyard designing and constructing some of the most iconic liners of the period, including the ill-fated Titanic. **Oceanic** was one of H&W's earlier liners, and at the time of her construction, she was the largest and most versatile ship ever built. 
 "Genoceanic" stands for **Gen**omic **O**pen **C**ore **E**ngine for **A**ccelerating **NI** **C**are. Using this architecture, we can ensure that our developments in genomics will align with regional and national objectives to ensure that the clinical data which our patients have entrusted to us will continue to provide benefit when Encompass comes along.
 
-## How does Genoceanic relate to Encompass?
+## How does GenOCEANIC relate to Encompass?
 Genoceanic is a separate project from Encompass, but is designed to use open data standards (OpenEHR), so that it can ultimately be integrated with Encompass and/or the vendor-neutral open platform that works along with the Encompass architecture. The philosophy is "Once for Northern Ireland" - Genoceanic will be built to work alongside regional developments, and not in its own little silo. Although the initial phase will be developed within Belfast Trust, our plan is to liaise with regional stakeholders and the Encompass team at the earliest available opportunity after the award of contract to establish the relevant data linkages. We are satisfied that the requirements of Genoceanic are sufficiently generic that they will have no influence over the selection process for Encompass.
 
 So the bottom line is: we *are excited and can't wait* for Encompass! We're preparing the road for the next digital revolution in Northern Ireland's health & care system. We need to be ready to hit the ground running to ensure that digital healthcare and precision medicine have a synergistic effect in improving the health and wellbeing of our patients and the wider population.
