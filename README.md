@@ -35,3 +35,8 @@ In the late 19th and early 20th centuries, Belfast was the ship-building capital
 Genoceanic is a separate project from Encompass, but is designed to use open data standards (OpenEHR), so that it can ultimately be integrated with Encompass and/or the vendor-neutral open platform that works along with the Encompass architecture. The philosophy is "Once for Northern Ireland" - Genoceanic will be built to work alongside regional developments, and not in its own little silo. Although the initial phase will be developed within Belfast Trust, our plan is to liaise with regional stakeholders and the Encompass team at the earliest available opportunity after the award of contract to establish the relevant data linkages. We are satisfied that the requirements of Genoceanic are sufficiently generic that they will have no influence over the selection process for Encompass.
 
 So the bottom line is: we *are excited and can't wait* for Encompass! We're preparing the road for the next digital revolution in Northern Ireland's health & care system. We need to be ready to hit the ground running to ensure that digital healthcare and precision medicine have a synergistic effect in improving the health and wellbeing of our patients and the wider population.
+
+## Presentations
+Here are some additional files you may find helpful.
+* [Presentation to Wales Clinical Genetics Department, December 2022](genoceanic_presentation_belfast.pdf)
+* [Presentation to Irish Healthcare Research Board conference, December 2022](https://github.com/shanemuk/Genoceanic/blob/master/genoceanic_HRB.pdf)
