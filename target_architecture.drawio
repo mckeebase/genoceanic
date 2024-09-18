@@ -1,9 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2024-09-18T14:53:59.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.6.4" etag="meGWLhWGmRPEj5PBnSX6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-18T15:03:27.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="lcPlP9uw80yGAxyCaF8F" version="24.6.4" type="github">
   <diagram name="Page-1" id="MsfbwUnx4sFHyL-43DM3">
-    <mxGraphModel>
+    <mxGraphModel dx="1666" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ik0Tv3I-h3gMMfTNgsgG-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;NI GENOMICS &amp;amp; Precision Medicine&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;TARGET ARCHITECTURE&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="30" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ik0Tv3I-h3gMMfTNgsgG-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.6_point_star" vertex="1" parent="1">
+          <mxGeometry x="175" y="210" width="520" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ik0Tv3I-h3gMMfTNgsgG-3" value="CLINICAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ik0Tv3I-h3gMMfTNgsgG-4" value="OVERSIGHT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="200" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ik0Tv3I-h3gMMfTNgsgG-5" value="INDUSTRY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="500" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ik0Tv3I-h3gMMfTNgsgG-6" value="LABS&lt;br&gt;Molecular Diagnostics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="580" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ik0Tv3I-h3gMMfTNgsgG-7" value="UNIVERSITIES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="500" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ik0Tv3I-h3gMMfTNgsgG-8" value="PUBLIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ik0Tv3I-h3gMMfTNgsgG-9" value="INFORMATICS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ik0Tv3I-h3gMMfTNgsgG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ik0Tv3I-h3gMMfTNgsgG-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ik0Tv3I-h3gMMfTNgsgG-12" value="Govt, commissioning, Trusts&lt;div&gt;FUNDING&lt;br&gt;STRATEGY&lt;br&gt;GOVERNANCE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="100" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ik0Tv3I-h3gMMfTNgsgG-13" value="&lt;div&gt;Multidisciplinary platform: engagement, decisions, guidelines&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="110" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ik0Tv3I-h3gMMfTNgsgG-14" value="&lt;div&gt;Other specialties, wider HSC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="375" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ik0Tv3I-h3gMMfTNgsgG-15" value="INNOVATION&lt;div&gt;- apps&lt;/div&gt;&lt;div&gt;- biomarkers&lt;/div&gt;&lt;div&gt;- process&lt;/div&gt;&lt;div&gt;- economy&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="495" width="120" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
