@@ -2,7 +2,7 @@
 Leveraging the power of Open Data Standards in the world of Genomics.
 *Author: Dr Shane McKee*, Consultant in Genetic Medicine, Chief Clinical Information Officer, Belfast HSC Trust. shane.mckee@belfasttrust.hscni.net tw: @shanemuk
 
-## What is Genoceanic?
+## What is GenOCEANIC?
 Northern Ireland patients are participating in the UK [**100,000 Genomes Project**](https://www.genomicsengland.co.uk/). This involves collating **consent**, **phenotype** and **genomic** data and transmitting this securely to [*Genomics England Ltd*](https://www.genomicsengland.co.uk/) (GEL). We aim to recruit up to 1000 patients and relatives with a variety of rare diseases and cancers to the Northern Ireland contribution to the 100KGP. This work requires an information architecture to support it. **GenOCEANIC** is the platform that will do this and leave a lasting legacy for diagnosis, treatment and discovery.
 
 GenOCEANIC consists of three primary components:
@@ -19,8 +19,8 @@ GenOCEANIC consists of three primary components:
 - OpenEHR allows rich data acquisition to inform analysis of genomic data.
 - Archetypes and Templates developed on the OpenEHR background can be re-used by other applications and services, providing a platform for innovation across all aspects of healthcare.
 
-## Where will Genoceanic be housed?
-Initially Genoceanic will "live" within the Belfast Trust, as the lead organisation for the recruitment of NI patients into the 100KGP. As we gain experience with the platform, the intention is to move several legacy systems onto the 
+## Where will GenOCEANIC be housed?
+Initially Genoceanic will "live" within the Belfast Trust, as the lead organisation for the recruitment of NI patients into the 100KGP. As we gain experience with the platform, the intention is to move the data from several legacy systems into GenOCEANIC, and make this data available to the NI healthcare ecosystem for patient care and approved research, with appropriate governance and anonymisation.
 
 ## How will we connect everything up?
 This is going to get a little technical. We actually do have a great deal of data about our health and care in digital systems. The problem is that these systems are typically very bad at talking to each other, and setting up linkages can be a difficult, time-consuming and expensive process. However we plan to significantly simplify this process by using the **Mirth** engine to build linkages between Belfast Trust IT systems and Genoceanic's OpenEHR clinical data repository (CDR). We will then connect the OpenEHR CDR to GeNIE, allowing interchange of data. GeNIE will act as both the user interface by which we access the clinical data for the genomics programme, and the exchange engine for communicating with the Genomics England Ltd databases. This is a very simple but powerful architecture, and means we can get maximum benefit.
